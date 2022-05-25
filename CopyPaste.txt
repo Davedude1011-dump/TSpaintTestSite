@@ -1,0 +1,30 @@
+<h1 style="position: absolute; top: -10px; left: 35%">House</h1>
+<button
+style="height: 100%; width: 100%; border-radius: 5px">
+</button>
+
+document.getElementById("a1").style.backgroundColor = "red"
+    document.getElementById("a2").style.backgroundColor = "red"
+    document.getElementById("a3").style.backgroundColor = "red"
+    document.getElementById("a4").style.backgroundColor = "red"
+    document.getElementById("a5").style.backgroundColor = "red"
+    document.getElementById("b1").style.backgroundColor = "red"
+    document.getElementById("b2").style.backgroundColor = "red"
+    document.getElementById("b3").style.backgroundColor = "red"
+    document.getElementById("b4").style.backgroundColor = "red"
+    document.getElementById("b5").style.backgroundColor = "red"
+    document.getElementById("c1").style.backgroundColor = "red"
+    document.getElementById("c2").style.backgroundColor = "red"
+    document.getElementById("c3").style.backgroundColor = "red"
+    document.getElementById("c4").style.backgroundColor = "red"
+    document.getElementById("c5").style.backgroundColor = "red"
+    document.getElementById("d1").style.backgroundColor = "red"
+    document.getElementById("d2").style.backgroundColor = "red"
+    document.getElementById("d3").style.backgroundColor = "red"
+    document.getElementById("d4").style.backgroundColor = "red"
+    document.getElementById("d5").style.backgroundColor = "red"
+    document.getElementById("e1").style.backgroundColor = "red"
+    document.getElementById("e2").style.backgroundColor = "red"
+    document.getElementById("e3").style.backgroundColor = "red"
+    document.getElementById("e4").style.backgroundColor = "red"
+    document.getElementById("e5").style.backgroundColor = "red"
